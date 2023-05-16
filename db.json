@@ -1,4 +1,5 @@
-[
+{
+  "wines": [
     {
       "id": 1,
       "name": "Château Margaux",
@@ -1183,3 +1184,4 @@
         "image_url": "https://www.hickoryfarms.com/on/demandware.static/-/Sites-HickoryFarms-Library/default/dwf19b1cde/images/wpBlog/gift-guides/wine-gift-ideas-all-occasions-blog-1.jpg"
       }
   ]
+}
