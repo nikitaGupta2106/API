@@ -1096,7 +1096,7 @@
     {
         "id": 67,
         "name": "Elegant Wine Glass Set",
-        "type": "Sets & Gifts",
+        "type": "Sets and Gifts",
         "description": "This elegant wine glass set is perfect for wine enthusiasts. It includes four crystal wine glasses, each designed to enhance the aroma and flavor of your favorite wines.",
         "price": 59.99,
         "quantity" : 5,
@@ -1105,7 +1105,7 @@
       {
         "id": 68,
         "name": "Deluxe Wine Opener Set",
-        "type": "Sets & Gifts",
+        "type": "Sets and Gifts",
         "description": "The deluxe wine opener set is a must-have for any wine lover. It includes a high-quality corkscrew, foil cutter, wine pourer, and wine stopper, all beautifully packaged in a wooden gift box.",
         "price": 39.99,
         "quantity" : 6,
@@ -1114,7 +1114,7 @@
       {
         "id": 69,
         "name": "Luxury Wine and Glass Set",
-        "type": "Sets & Gifts",
+        "type": "Sets and Gifts",
         "description": "Indulge in the exquisite taste of Les Violettes Cotes du Rhone red wine with this luxury wine and glass set. It includes a 75cl bottle of Les Violettes Cotes du Rhone red wine and a Royal Scot wine glass, elegantly presented in a luxury box.",
         "price": 79.99,
         "quantity" : 9,
@@ -1123,7 +1123,7 @@
       {
         "id": 70,
         "name": "Premium Wine Accessory Set",
-        "type": "Sets & Gifts",
+        "type": "Sets and Gifts",
         "description": "The premium wine accessory set has everything you need to enjoy and preserve your favorite wines. It includes a wine aerator, vacuum pump, bottle stoppers, and a wine drip collar, all neatly packed in a sleek gift box.",
         "price": 49.99,
         "quantity" : 15,
@@ -1132,7 +1132,7 @@
       {
         "id": 71,
         "name": "Luxurious Wine and Cheese Set",
-        "type": "Sets & Gifts",
+        "type": "Sets and Gifts",
         "description": "Indulge in the ultimate wine and cheese experience with this luxurious set. It includes a bottle of fine red wine and an assortment of gourmet cheeses, elegantly presented in a wooden gift box.",
         "price": 89.99,
         "quantity" : 3,
@@ -1141,7 +1141,7 @@
       {
         "id": 72,
         "name": "Red Wine Gift Box",
-        "type": "Sets & Gifts",
+        "type": "Sets and Gifts",
         "description": "This exquisite red wine gift box is perfect for wine enthusiasts. It features a bottle of premium red wine beautifully packaged in an elegant box, making it an ideal gift for any occasion.",
         "price": 34.99,
         "quantity" : 7,
@@ -1150,7 +1150,7 @@
       {
         "id": 73,
         "name": "Hearty Bites and Wine Gift Basket",
-        "type": "Sets & Gifts",
+        "type": "Sets and Gifts",
         "description": "Enjoy a delightful combination of hearty bites and wine with this gift basket. It includes a selection of gourmet snacks and a bottle of exquisite wine, beautifully presented in a woven basket.",
         "price": 79.99,
         "quantity" : 1,
@@ -1159,7 +1159,7 @@
       {
         "id": 74,
         "name": "Premium Wine Gift Set",
-        "type": "Sets & Gifts",
+        "type": "Sets and Gifts",
         "description": "Discover the joy of wine with this premium wine gift set. It includes a curated selection of fine wines, elegantly packaged and ready to be enjoyed or gifted to a wine lover.",
         "price": 129.99,
         "quantity" : 5,
@@ -1168,7 +1168,7 @@
       {
         "id": 75,
         "name": "90-Point Red Wine Trio Gift Basket",
-        "type": "Sets & Gifts",
+        "type": "Sets and Gifts",
         "description": "Experience the flavors of exceptional red wines with this 90-point red wine trio gift basket. It features three outstanding red wines, accompanied by gourmet treats, all elegantly presented in a vintage-styled gift basket.",
         "price": 99.99,
         "quantity" : 13,
@@ -1177,7 +1177,7 @@
       {
         "id": 76,
         "name": "All Occasions Wine Gift Set",
-        "type": "Sets & Gifts",
+        "type": "Sets and Gifts",
         "description": "Celebrate all occasions with this versatile wine gift set. It includes a curated selection of fine wines from various regions, carefully chosen to suit different palates and preferences.",
         "price": 89.99,
         "quantity" : 11,
